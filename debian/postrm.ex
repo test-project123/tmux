@@ -5,8 +5,6 @@
 
 set -e
 
-./testing.sh
-
 # summary of how this script can be called:
 #        * <postrm> `remove'
 #        * <postrm> `purge'
