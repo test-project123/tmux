@@ -1,9 +1,9 @@
 Source: tmuxpackage
-Section: unknown
+Section: utils
 Priority: optional
-Maintainer: testuser <aaa@bbb.ccc>
+Maintainer: user <aaa@bbb.ccc>
 Build-Depends: debhelper-compat (= 12), autotools-dev
-Standards-Version: 4.4.1
+Standards-Version: 0.0.1
 Homepage: https://github.com/test-project123/tmux
 #Vcs-Browser: https://salsa.debian.org/debian/tmuxpackage
 #Vcs-Git: https://salsa.debian.org/debian/tmuxpackage.git

@@ -1,4 +1,4 @@
-tmuxpackage (0.0.0.1) unstable; urgency=medium
+tmuxpackage (0.0.0.1) precise; urgency=medium
 
   * Initial Release.
   * Test release
